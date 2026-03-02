@@ -1,0 +1,1 @@
+This is a generative model for the day-ahead oil futures curve. 
